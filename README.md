@@ -10,3 +10,6 @@ Second Part: https://youtu.be/6a4B7ev3vd0
 Support me: https://www.buymeacoffee.com/codewithyousaf
 
 https://codewithyousaf.blogspot.com/
+
+## Deployment
+Use Docker Compose or run backend with NODE_ENV=production.
