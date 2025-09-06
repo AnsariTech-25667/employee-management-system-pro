@@ -44,6 +44,6 @@ docker-compose up --build
 
 ### 📌 Final Thoughts
 
-This project taught me a lot about **bridging frontend-backend communication, securing APIs, and writing cleaner commits**. It isn’t just a tutorial clone – I spent time structuring docs, CI/CD, and deployment so that anyone could pick it up and run it without headaches.
+This project taught me a lot about **bridging frontend-backend communication, securing APIs, and writing cleaner commits**. It isn’t just a tutorial clone, I spent time structuring docs, CI/CD, and deployment so that anyone could pick it up and run it without headaches.
 
 ---
